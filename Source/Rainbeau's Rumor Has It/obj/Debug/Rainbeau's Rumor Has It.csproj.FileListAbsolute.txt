@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RF - Rumor Has It\Source\Rainbeau's Rumor Has It\obj\Debug\Rainbeau's Rumor Has It.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RF - Rumor Has It\Assemblies\Rainbeau's Rumor Has It.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RF - Rumor Has It\Source\Rainbeau's Rumor Has It\obj\Debug\Rainbeau's Rumor Has It.dll
+E:\Steam\steamapps\common\RimWorld\Mods\RoumorHasIt\Source\Rainbeau's Rumor Has It\obj\Debug\Rainbeau's Rumor Has It.csprojAssemblyReference.cache
+E:\Steam\steamapps\common\RimWorld\Mods\RoumorHasIt\Source\Rainbeau's Rumor Has It\obj\Debug\Rainbeau's Rumor Has It.csproj.CoreCompileInputs.cache
+E:\Steam\steamapps\common\RimWorld\Mods\RoumorHasIt\Source\Rainbeau's Rumor Has It\obj\Debug\Rainbeau's Rumor Has It.dll
+E:\Steam\steamapps\common\RimWorld\Mods\RoumorHasIt\1.1\Assemblies\Rainbeau's Rumor Has It.dll
